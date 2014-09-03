@@ -3,7 +3,7 @@
 // Definitions by: vvakame <https://github.com/vvakame/>
 // Definitions: https://github.com/borisyankov/DefinitelyTyped
 
-/// <reference path="../node/node.d.ts" />
+/// <reference path="../dt-node/node.d.ts" />
 
 declare module Vinyl {
 	interface IOptions {
